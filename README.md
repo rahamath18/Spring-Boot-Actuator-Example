@@ -1,6 +1,11 @@
 ## Spring Boot Actuator Example using  SpringBoot 2.2.2
 
 
+Spring Boot includes a number of additional features to help you monitor and manage your application when you push it to production. You can choose to manage and monitor your application by using HTTP endpoints or with JMX. Auditing, health, and metrics gathering can also be automatically applied to your application.
+
+For more details: https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html
+
+
 ### Used technology stack in this example
 
 	1. OpenJDK 12
